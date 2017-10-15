@@ -2,8 +2,8 @@
 连接远程仓库时注意事项：
 [localhost:git moumou$ ssh-keygen -t rsa -C “xxxxxxxxxxxx@qq.com"
 Generating public/private rsa key pair.
-Enter file in which to save the key (/Users/liuyange/.ssh/id_rsa): 
-Created directory '/Users/liuyange/.ssh'.
+Enter file in which to save the key (/Users/moumou/.ssh/id_rsa): 
+Created directory '/Users/moumou/.ssh'.
 Enter passphrase (empty for no passphrase): 
 Enter same passphrase again: 
 Your identification has been saved in /Users/moumou/.ssh/id_rsa.
