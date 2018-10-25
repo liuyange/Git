@@ -153,5 +153,6 @@ git安装：
 		$ git tag -d v0.9
 		从远程删除:
 		$ git push origin :refs/tags/v0.9
+一个更简单方便的方法是使用sourcetree,非常适合多人合作
 
 
